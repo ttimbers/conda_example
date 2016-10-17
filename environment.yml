@@ -5,7 +5,6 @@ dependencies:
 - openssl=1.0.2j
 - pip=8.1.2
 - python=2.7.12
-- readline=6.2
 - setuptools=27.2.0
 - sqlite=3.13.0
 - tk=8.5.18
@@ -14,5 +13,3 @@ dependencies:
 - pip:
   - bz2file==0.98
   - screed==0.9
-prefix: /Users/timberst/anaconda/envs/bio2
-
