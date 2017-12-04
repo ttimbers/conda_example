@@ -2,14 +2,8 @@ name: bio2
 channels: !!python/tuple
 - defaults
 dependencies:
-- openssl=1.0.2j
-- pip=8.1.2
 - python=2.7.12
-- setuptools=27.2.0
-- sqlite=3.13.0
-- tk=8.5.18
-- wheel=0.29.0
-- zlib=1.2.8
+
 - pip:
   - bz2file==0.98
   - screed==0.9
