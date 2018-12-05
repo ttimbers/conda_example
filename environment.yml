@@ -5,5 +5,4 @@ dependencies:
 - python=2.7.12
 
 - pip:
-  - bz2file==0.98
   - screed==0.9
